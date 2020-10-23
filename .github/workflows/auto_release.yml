@@ -2,7 +2,7 @@ on:
   pull_request:
     # Sequence of patterns matched against refs/tags
     tags:
-      - 'Release v*' # Push events to matching v*, i.e. v1.0, v20.15.10
+      - v1.* # Push events to matching v*, i.e. v1.0, v20.15.10
 
 name: Auto Release
 
