@@ -5,5 +5,3 @@ Ncjcjcjcjcjcjjjj
 
 ss
 Jj
-
-sssssttttt
