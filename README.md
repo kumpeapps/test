@@ -2,6 +2,3 @@
 kuygjaaajhgfhjktfgasdf
 
 Ncjcjcjcjcjcjjjj
-
-ss
-Jj
